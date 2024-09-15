@@ -1,0 +1,14 @@
+th,td{
+  border: 1px solid black;
+  text-align: center;
+}
+caption{
+  border: 1px solid black
+}
+#thanks{
+  text-decoration: none;
+  color:black;
+}
+img{
+  height: 300px;
+}
